@@ -6,4 +6,4 @@
 [fashion-mnist_train.csv](https://storage.googleapis.com/kaggle-data-sets/2243/9243/compressed/fashion-mnist_train.csv.zip?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20201004%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20201004T131655Z&X-Goog-Expires=259199&X-Goog-SignedHeaders=host&X-Goog-Signature=18bd2af6ff27feed2d9aa3d3dd9939ebe4461bd67cb20a75552e47c0eeee18fc9b300c0a6797aab46633b92bae992152b9aeeb5a53d0597682816eaef6183e4f92d5f1f12d682dec4a16c41acf9b36b7a57e0943904f6666a803858cafd25ddf4fc3782821435e7497ad3704b2c5c185fc17848651a381080aec81b2ad24f8a21f68c29f203fb513c1ce5d6c7d7ee9960de469cd9ae45d3c87b423ff5acf45c0f37780967726bc4807689424509819b177e2963a289f0be4455d3670a5fffee1704e1daae4f15324730e4ae90277533e98b9b5353282df1c93bca4da92166b7543dc0aa3dc2e8a373d2d1351c6d66510f23ab3117c2e0d580f33c469dba532fc)
 
 ## Predicted results on validation Images
-![alt text](https://ibb.co/rxn50x4)
+![image](https://ibb.co/rxn50x4)
